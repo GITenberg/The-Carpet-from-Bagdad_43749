@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/750
     wikipedia: http://en.wikipedia.org/wiki/Harold_MacGrath
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43749#The-Carpet-from-Bagdad
 gutenberg_issued: '2013-09-16'
 gutenberg_type: Text
 identifiers:
